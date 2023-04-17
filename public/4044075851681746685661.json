@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "699189407827",
+    "project_id": "pinjamantunaiaman-9ed6c",
+    "storage_bucket": "pinjamantunaiaman-9ed6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699189407827:android:3410ac4a497a2eef4516a6",
+        "android_client_info": {
+          "package_name": "com.PinjamanTunaiAman.pinjolcpatt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699189407827-155qnkdan7at57cuhvg4nct0h805kjan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA7aF4I_dSGXlZrFXylkUZd2PyOHlEAu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699189407827-155qnkdan7at57cuhvg4nct0h805kjan.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
